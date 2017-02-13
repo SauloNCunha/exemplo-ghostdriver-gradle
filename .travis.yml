@@ -6,5 +6,5 @@ notifications:
    email:
      recipients:
        - jake.lima18@gmail.com
-       - jackson@easyittraining.com.br
-    on_success: always
+       - jackson@suportefacil.inf.br
+     on_success: always
