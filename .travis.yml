@@ -1,8 +1,10 @@
 language: java
 jdk:
-  - openjdk7
+ - openjdk7
+   
 notifications:
-  email:
-    recipients:
-      - stefanfk@gmail.com
+   email:
+     recipients:
+       - jake.lima18@gmail.com
+       - jackson@easyittraining.com.br
     on_success: always
