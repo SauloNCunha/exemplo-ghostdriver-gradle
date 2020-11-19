@@ -33,8 +33,7 @@ test {
 			  }
 			}
 		}
-	}
-		
+	}		
 	ext.useDefaultListeners = true
 	ext.workingDirectory = 'build/'
 }
