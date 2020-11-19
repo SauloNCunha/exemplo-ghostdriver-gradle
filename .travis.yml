@@ -5,6 +5,5 @@ jdk:
 notifications:
    email:
      recipients:
-       - jake.lima18@gmail.com
-       - jackson@suportefacil.inf.br
+       - saulo.nascimento@trackerup.com.br
      on_success: always
